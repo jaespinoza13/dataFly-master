@@ -1,0 +1,16 @@
+
+
+
+
+
+White,2000-01-07,1943,Male,M34T,35delG "ojo por el codigo ZIP"
+
+White,2001-09-18,2008,Male,wt,mn "se puede"
+
+
+White,2005-08-19,2126,Male,wt,st "se puede"
+White,2005-06-04,2139,Male,wt,uv "se puede"
+
+
+
+White,2006-05-06,2480,Male,wt,yz "se puede"

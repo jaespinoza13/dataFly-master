@@ -1,0 +1,5 @@
+
+White,2001-09-18,2008,Male,wt,mn
+White,2005-08-19,2126,Male,wt,st
+White,2005-06-04,2139,Male,wt,uv
+White,2006-05-06,2480,Male,wt,yz
